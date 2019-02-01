@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Why code? "
+date:   2017-01-10 15:43:16 +0000
+---
+
+
+Mid 2014. I was just out of college, my music career was going well but the rest of my life was feeling stagnant. I had a terrible job to save up to move out of my parents house (something I couldn't dream of doing on gig money alone). 
+
+I have always been technical-minded - I enjoyed all my math classes in high school and college, and felt that many of the things I loved most about studying music were extensions of that technicality. In reading about other possible career paths, computer science jumped out at me. It was a growing field, and one at which I thought I could excel. 
+
+I took some classes and my interest grew. One thing I appreciate, that keeps getting reinforced, is that so much is possible with computer science, and there are so many different branches that one can take. I feel I could do anything, which is exhilarating. 
